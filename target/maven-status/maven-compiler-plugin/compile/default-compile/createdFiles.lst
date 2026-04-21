@@ -5,10 +5,14 @@ com/workflow/engine/Workflow$Builder.class
 com/workflow/engine/WorkflowException.class
 com/workflow/engine/StepDefinition.class
 com/workflow/engine/Step$ThrowingConsumer.class
+com/workflow/engine/Stage$Sequential.class
 com/workflow/engine/WorkflowResult.class
+com/workflow/engine/Stage$Parallel.class
 com/workflow/engine/Workflow.class
 com/workflow/engine/RetryPolicy.class
 com/workflow/engine/WorkflowEngine.class
+com/workflow/engine/Workflow$ParallelBuilder.class
 com/workflow/engine/WorkflowContext.class
 com/workflow/engine/WorkflowResult$Status.class
 com/workflow/engine/Sleeper.class
+com/workflow/engine/Stage.class

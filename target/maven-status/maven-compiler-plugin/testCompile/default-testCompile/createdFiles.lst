@@ -1,3 +1,5 @@
-com/workflow/engine/WorkflowContextTest.class
 com/workflow/engine/WorkflowEngineTest.class
+com/workflow/engine/WorkflowEngineParallelTest.class
+com/workflow/engine/WorkflowContextTest.class
 com/workflow/engine/WorkflowEngineTest$RecordingSleeper.class
+com/workflow/engine/WorkflowEngineParallelTest$ConcurrentRecordingSleeper.class
